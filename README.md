@@ -1,1 +1,3 @@
 # CSN-190-Cybersecurity-Research-Project
+Ivan Reyes CSN 190 Cybersecurity Project 24909 - create a project to show future employers my capabilities 
+My path into cybersecurity didn’t begin in a classroom—it started when I built my first gaming computer. That experience opened the door to the tech world for me. I became fascinated not just with how technology works, but how it can be controlled, manipulated, and protected. That curiosity led me to enroll in a cybersecurity bootcamp, where I got my first real hands-on experience with Linux, Wireshark, and coding. That’s when I knew I had found my passion.
