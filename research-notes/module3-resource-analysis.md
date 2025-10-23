@@ -14,14 +14,15 @@
 - Both topics connect to cybersecurity careers but from different angles: Topic 1 = penetration tester, Topic 2 = SOC analyst/blue team side.
   
 ### Questions from GitHub Research
-
+## Topic 1
 - How do tools like Nettacker manage so many modules without breaking things?
 - Should my vulnerability scanner use threads/multi-threading like Nettacker?
 - What’s the best format to export results? JSON? HTML report?
 - How do I pull CVE data into my tool automatically?
 - Is BlackWidow still reliable even though it hasn’t been updated recently?
 - How can I test a scanner safely without hitting real networks?
-- For Topic 2: How do blocklists like StevenBlack stay updated and accurate?
+## Topic 2
+- How do blocklists like StevenBlack stay updated and accurate?
 - Can domain blocking really stop ransomware, or is it just a small layer of defense?
 - The Nginx Bot Blocker blocks bad traffic – could this help prevent ransomware delivery?
 - Why don’t companies use open-source ransomware defense tools more often?
