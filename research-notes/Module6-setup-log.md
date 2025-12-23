@@ -31,6 +31,10 @@ deployed it inside a Kali Linux virtual machine using Git and the terminal in Vi
 <img width="923" height="470" alt="6 2 error 4" src="https://github.com/user-attachments/assets/f3a99670-4333-4796-b2e7-0405eb37f638" />
 <img width="863" height="334" alt="6 2 error 3" src="https://github.com/user-attachments/assets/ff21774d-ba37-49cb-86be-cef1a42c7680" />
 <img width="801" height="333" alt="6 2 error 2" src="https://github.com/user-attachments/assets/0c1624a6-06ae-4c0c-95be-567a295ffc77" />
+<img width="921" height="175" alt="6 2 soure list for downloads" src="https://github.com/user-attachments/assets/712650ca-6482-4367-9696-cd51bae02dde" />
+<img width="864" height="746" alt="image" src="https://github.com/user-attachments/assets/ce9e3ad4-b0a1-46ec-bd5d-064335e49c93" />
+<img width="931" height="453" alt="image" src="https://github.com/user-attachments/assets/d348ed23-03ac-4037-b208-0ce63629313e" />
+<img width="933" height="802" alt="6 2 working" src="https://github.com/user-attachments/assets/104531ed-ecd4-44b1-9754-505cacc6f349" />
 
 
 
